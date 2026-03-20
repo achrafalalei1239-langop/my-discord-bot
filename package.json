@@ -1,0 +1,1 @@
+{\n  "name": "my-discord-bot",\n  "version": "1.0.0",\n  "description": "A simple Discord bot using Discord.js",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "discord.js": "^14.0.0"\n  },\n  "author": "achrafalalei1239-langop",\n  "license": "MIT"\n}
